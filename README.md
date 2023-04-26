@@ -16,8 +16,8 @@
     <p>Grado medio de montaje y mantenimiento de equipos.</p>
     <h2>Contacto</h2>
     <ul>
-      <li><img src= "https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width=12px><a href="https://www.instagram.com/alexutl17/">Instagram</a></li>
-      <li><a href="https://twitter.com/Niplhu">Twitter</a></li>
+      <li><img src= "https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width=16px><a href="https://www.instagram.com/alexutl17/"> Instagram</a></li>
+      <li><img src= "https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" width=16px><a href="https://twitter.com/Niplhu">Twitter</a></li>
     </ul>
     <h2>Hobbies e intereses</h2>
     <p>Me encantan los videojuegos y el anime.</p>
