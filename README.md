@@ -16,8 +16,8 @@
     <p>Grado medio de montaje y mantenimiento de equipos.</p>
     <h2>Contacto</h2>
     <ul>
-      <li><img src= "https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width=16px><a href="https://www.instagram.com/alexutl17/"> Instagram</a></li>
-      <li><img src= "https://cdn.icon-icons.com/icons2/1488/PNG/512/5294-twitter-i_102511.png" width=20px><a href="https://twitter.com/Niplhu"> Twitter</a></li>
+      <li><img style="pointer-events:none;" src= "https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" width=16px><a href="https://www.instagram.com/alexutl17/"> Instagram</a></li>
+      <li><img style="pointer-events:none;" src= "https://cdn.icon-icons.com/icons2/1488/PNG/512/5294-twitter-i_102511.png" width=20px><a href="https://twitter.com/Niplhu"> Twitter</a></li>
     </ul>
     <h2>Hobbies e intereses</h2>
     <p>Me encantan los videojuegos y el anime.</p>
@@ -29,3 +29,4 @@
     <h2>Estadísticas en GitHub</h2>
     <img src="https://img.shields.io/github/followers/alexutl17?style=social">
     <img src="https://img.shields.io/github/stars/alexutl17?style=social">
+<style>
