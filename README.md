@@ -10,8 +10,6 @@
       <li>CSS</li>
       <li>HTML</li>
     </ul>
-    <h2>Experiencia laboral</h2>
-    <p>Ninguna de momento.</p>
     <h2>Educación</h2>
     <p>Grado medio de montaje y mantenimiento de equipos.</p>
     <h2>Contacto</h2>
