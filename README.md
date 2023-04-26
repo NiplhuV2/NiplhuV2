@@ -20,7 +20,9 @@
       <li><img style="pointer-events:none;" src= "https://cdn.icon-icons.com/icons2/1488/PNG/512/5294-twitter-i_102511.png" width=20px><a href="https://twitter.com/Niplhu"> Twitter</a></li>
     </ul>
     <h2>Hobbies e intereses</h2>
-    <p>Me encantan los videojuegos y el anime.</p>
+    <p>Tengo un amor hacia el mundo del anime y videojuegos🍙.</p>
+    <p>En especial a los DarkSouls⚔️ y a One Piece👒🍖</p>
+    <p>Mi sueño es visitar el pais nipón y disfrutar de su gastonomia y su mundo</p>
     <h2>Editores de código o entornos de desarrollo que domino</h2>
     <ul>
       <li>Netbeans</li>
