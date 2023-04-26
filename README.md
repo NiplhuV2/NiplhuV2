@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![yay]([https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg](https://media.tenor.com/hRiPtsp-m0IAAAAS/the-simpsons-homer-simpson.gif))
 <!--
 **NiplhuV2/NiplhuV2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
