@@ -29,5 +29,5 @@
       <li>Visual Studio Code</li>
     </ul>
     <h2>Estadísticas en GitHub</h2>
-    <img src="https://img.shields.io/github/followers/alexutl17?style=social">
-    <img src="https://img.shields.io/github/stars/alexutl17?style=social">
+    <img src="https://img.shields.io/github/followers/NiplhuV2?style=social">
+    <img src="https://img.shields.io/github/stars/NiplhuV2?style=social">
